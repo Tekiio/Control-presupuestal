@@ -1,0 +1,55 @@
+<customlist scriptid="customlist_fb_list_posicion_approve">
+  <description>Se establece los valores para la aprobación.&#xd;
+Nota: no se deben de quitar elementos, se pueden agregar pero no quitar</description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>Lista de orden de aprobación</name>
+  <customvalues>
+    <customvalue scriptid="val_81574816_5662282_sb2_949">
+      <abbreviation>A</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Aprobador 1</value>
+    </customvalue>
+    <customvalue scriptid="val_81574817_5662282_sb2_166">
+      <abbreviation>A</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Aprobador 2</value>
+    </customvalue>
+    <customvalue scriptid="val_82163472_5662282_sb2_819">
+      <abbreviation>A</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Aprobador 3</value>
+    </customvalue>
+    <customvalue scriptid="val_82163473_5662282_sb2_451">
+      <abbreviation>A</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Aprobador 4</value>
+    </customvalue>
+    <customvalue scriptid="val_83715695_5662282_sb2_178">
+      <abbreviation>A</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Aprobador 5</value>
+    </customvalue>
+    <customvalue scriptid="val_86020326_5662282_sb2_655">
+      <abbreviation>A</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Aprobador 6</value>
+    </customvalue>
+    <customvalue scriptid="val_86020327_5662282_sb2_384">
+      <abbreviation>A</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Aprobador 7</value>
+    </customvalue>
+    <customvalue scriptid="val_86020328_5662282_sb2_924">
+      <abbreviation>A</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Aprobador 8</value>
+    </customvalue>
+    <customvalue scriptid="val_86020329_5662282_sb2_907">
+      <abbreviation>A</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Aprobador 9</value>
+    </customvalue>
+  </customvalues>
+</customlist>

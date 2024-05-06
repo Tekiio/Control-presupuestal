@@ -1,0 +1,54 @@
+<transactioncolumncustomfield scriptid="custcol_fb_pre_comprometido_monto">
+  <accesslevel>2</accesslevel>
+  <applyformatting>T</applyformatting>
+  <colexpense>F</colexpense>
+  <colexpensereport>F</colexpensereport>
+  <colgrouponinvoices>F</colgrouponinvoices>
+  <colinventoryadjustment>F</colinventoryadjustment>
+  <colitemfulfillment>F</colitemfulfillment>
+  <colitemfulfillmentorder>F</colitemfulfillmentorder>
+  <colitemreceipt>F</colitemreceipt>
+  <colitemreceiptorder>F</colitemreceiptorder>
+  <coljournal>F</coljournal>
+  <colkititem>F</colkititem>
+  <colopportunity>F</colopportunity>
+  <colpackingslip>F</colpackingslip>
+  <colperiodendjournal>F</colperiodendjournal>
+  <colpickingticket>F</colpickingticket>
+  <colprintflag>F</colprintflag>
+  <colpurchase>F</colpurchase>
+  <colreturnform>F</colreturnform>
+  <colsale>F</colsale>
+  <colstore>F</colstore>
+  <colstorehidden>F</colstorehidden>
+  <colstorewithgroups>F</colstorewithgroups>
+  <coltime>F</coltime>
+  <coltransferorder>F</coltransferorder>
+  <columncustomtransactions>[appid=com.netsuite.budgetmanagement, scriptid=customtransaction_bm_budget_transaction]</columncustomtransactions>
+  <defaultchecked>F</defaultchecked>
+  <defaultselection></defaultselection>
+  <defaultvalue>0</defaultvalue>
+  <description>Indica cual es el monto pre-comprometido, este se cambiará/actualizara cuando se aprueben las solicitudes de compra.</description>
+  <displayheight></displayheight>
+  <displaytype>NORMAL</displaytype>
+  <displaywidth></displaywidth>
+  <dynamicdefault></dynamicdefault>
+  <encryptatrest>F</encryptatrest>
+  <fieldtype>FLOAT</fieldtype>
+  <help>Indica cual es el monto pre-comprometido, este se cambiará/actualizara cuando se aprueben las solicitudes de compra.</help>
+  <isformula>F</isformula>
+  <ismandatory>F</ismandatory>
+  <label>Pre-Comprometido</label>
+  <linktext></linktext>
+  <maxlength></maxlength>
+  <maxvalue></maxvalue>
+  <minvalue></minvalue>
+  <onparentdelete></onparentdelete>
+  <searchlevel>2</searchlevel>
+  <selectrecordtype></selectrecordtype>
+  <showhierarchy>F</showhierarchy>
+  <sourcefilterby></sourcefilterby>
+  <sourcefrom></sourcefrom>
+  <sourcelist></sourcelist>
+  <storevalue>T</storevalue>
+</transactioncolumncustomfield>

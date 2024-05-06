@@ -1,0 +1,25 @@
+<suitelet scriptid="customscript_fb_suitelet_service_consult">
+  <description>Suitelet de servicio de consulta para los scripts los cuales no tienen acceso en su totalidad.</description>
+  <isinactive>F</isinactive>
+  <name>FB - Suitelet de servicio de consulta</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <scriptfile>[/SuiteScripts/Tekiio/Control de presupuestos/ui/fb_suitelet_service_consult_sl.js]</scriptfile>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_fb_suitelet_service_consult">
+      <allemployees>T</allemployees>
+      <allpartners>F</allpartners>
+      <allroles>T</allroles>
+      <audslctrole></audslctrole>
+      <eventtype></eventtype>
+      <isdeployed>T</isdeployed>
+      <isonline>T</isonline>
+      <loglevel>DEBUG</loglevel>
+      <runasrole>ADMINISTRATOR</runasrole>
+      <status>RELEASED</status>
+      <title>FB - Suitelet de servicio de consulta</title>
+    </scriptdeployment>
+  </scriptdeployments>
+</suitelet>
